@@ -5,7 +5,7 @@ openweathermap.py - Openweathermap module for jenni/phenny irc bot, in german an
 specific to german and austrian zip codes.
 
 Copyright 2015 TF (https://github.com/re-src/)
-Licensed under the Eiffel Forum License 2.
+Licensed under the BSD 2-Clause License.
 
 More info:
  * jenni-misc: https://github.com/freeboson/jenni-misc/
